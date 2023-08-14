@@ -1,0 +1,55 @@
+body {
+    background: rgb(201, 201, 204);
+    margin: 0;
+}
+
+header  {
+    background-color: white;
+    text-align: center;
+    margin: 0;
+    align-items: center;
+}
+img {
+    display: 100%;
+    background-color: white;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    text-align: right;
+    font-size: smaller;
+}
+.h1 {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row;
+    background-color: white;
+    align-items: center;
+}
+
+.h2 {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row;
+    background-color: white;
+    align-items: center;
+    padding-bottom: 40px;
+}
+div.container {
+    width: 50%;
+    margin: auto;
+}
+.f1 {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin-top: 0;
+}
+.pf {
+    padding-top: 40px;
+}
